@@ -4,7 +4,7 @@
 
 
 Me chamo João Vitor, tenho 19 anos e estou aprendendo a programar
-- 🌱 No momento, estou estudando desenvolvimento web.
+- 🌱 No momento, estou estudando desenvolvimento web e linguagem C na faculdade.
 - 🔭 Tenho interesse em trabalhar como desenvolvedor fullstack, e estou me dedicando<br>
 dia após dia para conquistar minha primeira vaga!
 - 👯 Tenho como foco aprender cada vez mais e desenvolver projetos próprios.
