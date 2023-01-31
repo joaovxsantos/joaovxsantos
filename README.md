@@ -3,7 +3,7 @@
 
 
 
-Me chamo João Vitor, tenho 19 anos e estou aprendendo a programar.
+Me chamo João Vitor, tenho 20 anos e estou aprendendo a programar.
 - 🌱 No momento, estou estudando desenvolvimento web.
 - 🔭 Tenho interesse em trabalhar como desenvolvedor fullstack, e estou me dedicando  
 dia após dia para conquistar minha primeira vaga!
