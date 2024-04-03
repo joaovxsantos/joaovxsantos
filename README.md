@@ -2,13 +2,11 @@
 
 
 
-
-Me chamo João Vitor, tenho 20 anos e estou aprendendo a programar.
-- 🌱 No momento, estou estudando desenvolvimento web.
-- 🔭 Tenho interesse em trabalhar como desenvolvedor fullstack, e estou me dedicando  
+Me chamo João Vitor, tenho 21 anos e estou estudando Desenvolvimento de Software.
+- 🔭 Tenho interesse em trabalhar como Desenvolvedor Front-End, e estou me dedicando  
 dia após dia para conquistar minha primeira vaga!
 - 👯 Tenho como foco aprender cada vez mais e desenvolver projetos próprios.
-- 📫 Caso queira me contactar, é só me mandar um e-mail para: joaovitor55670@gmail.com
+- 📫 Caso queira me contactar é só mandar um e-mail para: joaovitor55670@gmail.com
 - 😄 Pronomes: ele/dele
 ##
 <div align="center">
@@ -17,11 +15,11 @@ dia após dia para conquistar minha primeira vaga!
   <img width=48% height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovxsantos&layout=compact&langs_count=7&theme=highcontrast"/>
  </a>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="BootStrap5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
