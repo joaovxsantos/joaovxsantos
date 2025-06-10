@@ -3,8 +3,8 @@
 
 
 Me chamo João Vitor, tenho 22 anos e estou estudando Desenvolvimento de Software.
-- 🔭 Tenho interesse em trabalhar como Desenvolvedor Front-End, e estou me dedicando  
-dia após dia para conquistar minha primeira vaga!
+- 🔭 Atualmente trabalho como Desenvolvedor Front-End, e estou me dedicando  
+dia após dia para me aperfeiçoar cada vez mais!
 - 👯 Tenho como foco aprender cada vez mais e desenvolver projetos próprios.
 - 📫 Caso queira me contactar é só mandar um e-mail para: joaovitor55670@gmail.com
 - 😄 Pronomes: ele/dele
