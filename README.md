@@ -2,7 +2,7 @@
 
 
 
-Me chamo João Vitor, tenho 21 anos e estou estudando Desenvolvimento de Software.
+Me chamo João Vitor, tenho 22 anos e estou estudando Desenvolvimento de Software.
 - 🔭 Tenho interesse em trabalhar como Desenvolvedor Front-End, e estou me dedicando  
 dia após dia para conquistar minha primeira vaga!
 - 👯 Tenho como foco aprender cada vez mais e desenvolver projetos próprios.
