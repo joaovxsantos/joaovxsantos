@@ -2,7 +2,7 @@
 
 
 
-Me chamo João Vitor, tenho 22 anos e estou estudando Desenvolvimento de Software.
+Me chamo João Vitor, tenho 22 anos e sou Desenvolvedor Front-end.
 - 🔭 Atualmente trabalho como Desenvolvedor Front-End, e estou me dedicando  
 dia após dia para me aperfeiçoar cada vez mais!
 - 👯 Tenho como foco aprender cada vez mais e desenvolver projetos próprios.
