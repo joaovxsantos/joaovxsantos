@@ -1,38 +1,35 @@
-###  Olá! Seja bem vindo ao meu perfil!
+## João Vitor - Desenvolvedor Front-end
 
+Sou Desenvolvedor Front-end com experiência em React e TypeScript, focado na criação de interfaces modernas, responsivas e bem estruturadas, sempre priorizando boas práticas e código limpo.
 
+---
 
-Me chamo João Vitor, tenho 22 anos e sou Desenvolvedor Front-end.
-- 🔭 Atualmente trabalho como Desenvolvedor Front-End, e estou me dedicando  
-dia após dia para me aperfeiçoar cada vez mais!
-- 👯 Tenho como foco aprender cada vez mais e desenvolver projetos próprios.
-- 📫 Caso queira me contactar é só mandar um e-mail para: joaovitor55670@gmail.com
-- 😄 Pronomes: ele/dele
-##
-<div align="center">
-  <a href="https://github.com/joaovxsantos">
-  <img width=48% height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovxsantos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img width=48% height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovxsantos&layout=compact&langs_count=7&theme=highcontrast"/>
- </a>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="BootStrap5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
-  
-  ##
-   
-  <a href="https://instagram.com/joaoxd27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
- 	<a href="https://www.twitch.tv/thexdfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="discordapp.com/users/355180793565544449" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaovitor55670@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaov02/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-  ![Snake animation](https://github.com/joaovxsantos/joaovxsantos/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
+### 🚀 Tecnologias & Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,scss,git)](https://skillicons.dev)
+
+---
+
+### 👨‍💻 Sobre mim
+Atuo no desenvolvimento e manutenção de interfaces front-end, com foco em componentes reutilizáveis, responsividade e performance. Tenho experiência com e-commerce e customizações utilizando **VTEX IO**.
+
+🔗 **Portfólio:**  
+👉 [(https://portfolio-joaov.vercel.app/)](https://portfolio-joaov.vercel.app/)
+
+---
+
+### 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|-------|-----------|-------------|
+| [Dashboard Front](https://github.com/joaovxsantos/dashboard-front) | Interface para visualização de dados e métricas | React, TypeScript, SCSS |
+| [Dashboard Back-End](https://github.com/joaovxsantos/dashboard-back) | API REST com Node.js para gestão de pedidos e clientes | Node.js, Express, Prisma, MongoDB |
+
+> 🔎 Veja mais projetos nos meus repositórios
+
+---
+
+### 📫 Contato
+- 💼 LinkedIn: [https://www.linkedin.com/in/joao-vx/](https://www.linkedin.com/in/joao-vx/)
+- 📧 Email: joaovitor55670@gmail.com 
+
+📌 **Aberto a novas oportunidades** — fique à vontade para entrar em contato 🙂
