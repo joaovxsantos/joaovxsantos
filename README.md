@@ -22,6 +22,7 @@ Atuo no desenvolvimento e manutenção de interfaces front-end, com foco em comp
 | Projeto | Descrição | Tecnologias |
 |-------|-----------|-------------|
 | [Ecommerce Front](https://github.com/joaovxsantos/ecommerce-front) | Aplicação web completa e responsiva para compras online | React, TypeScript, NEXT.JS, SCSS |
+| [Design System Mars](https://github.com/joaovxsantos/design-system-mars) | Design system com tokens, dark mode e 09 componentes acessíveis, documentado com o raciocínio técnico por trás de cada decisão | React, TypeScript, NEXT.JS, SCSS |
 | [Dashboard Back-End](https://github.com/joaovxsantos/dashboard-back) | API REST com Node.js para gestão de pedidos e clientes | Node.js, Express, Prisma, MongoDB |
 
 > 🔎 Veja mais projetos nos meus repositórios
